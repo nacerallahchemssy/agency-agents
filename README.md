@@ -2,7 +2,7 @@
 
 > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/agency-agents?style=social)](https://github.com/yourusername/agency-agents)
+[![GitHub stars](https://img.shields.io/github/stars/msitarzewski/agency-agents?style=social)](https://github.com/msitarzewski/agency-agents)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
@@ -232,7 +232,7 @@ We welcome contributions! Here's how you can help:
 
 ### Share Your Success Stories
 
-Have you used these agents successfully? Share your story in the [Discussions](https://github.com/yourusername/agency-agents/discussions)!
+Have you used these agents successfully? Share your story in the [Discussions](https://github.com/msitarzewski/agency-agents/discussions)!
 
 ---
 
@@ -322,8 +322,8 @@ Special recognition to the 50+ Redditors who requested this within the first 12 
 
 ## 💬 Community
 
-- **GitHub Discussions**: [Share your success stories](https://github.com/yourusername/agency-agents/discussions)
-- **Issues**: [Report bugs or request features](https://github.com/yourusername/agency-agents/issues)
+- **GitHub Discussions**: [Share your success stories](https://github.com/msitarzewski/agency-agents/discussions)
+- **Issues**: [Report bugs or request features](https://github.com/msitarzewski/agency-agents/issues)
 - **Reddit**: Join the conversation on r/ClaudeAI
 - **Twitter/X**: Share with #TheAgency
 
@@ -343,7 +343,7 @@ Special recognition to the 50+ Redditors who requested this within the first 12 
 
 **🎭 The Agency: Your AI Dream Team Awaits 🎭**
 
-[⭐ Star this repo](https://github.com/yourusername/agency-agents) • [🍴 Fork it](https://github.com/yourusername/agency-agents/fork) • [🐛 Report an issue](https://github.com/yourusername/agency-agents/issues)
+[⭐ Star this repo](https://github.com/msitarzewski/agency-agents) • [🍴 Fork it](https://github.com/msitarzewski/agency-agents/fork) • [🐛 Report an issue](https://github.com/msitarzewski/agency-agents/issues)
 
 Made with ❤️ by the community, for the community
 
